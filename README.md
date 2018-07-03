@@ -1,3 +1,11 @@
+# (Update) Exam evaluation
+
+This project and (https://github.com/MassimilianoLuca/nlsparql-wfst)[this] are part of the Language Understanding System class that I took in my Master Degree at the University of Trento. 
+
+Mark (ITA): 30/30
+Mark (US): A
+
+
 # CRF
 
 Under the conditional_random_field folder, the CRF model can be found. To generate the results, elaborate the training and test sets and to create the other necessary files, you just have to use the main.py script. You can run it using Python 3 by typing python3 main.py or python main.py (depending on the environment of your machine).
