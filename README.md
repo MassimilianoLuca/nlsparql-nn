@@ -1,6 +1,6 @@
 # (Update) Exam evaluation
 
-This project and (https://github.com/MassimilianoLuca/nlsparql-wfst)[this] are part of the Language Understanding System class that I took in my Master Degree at the University of Trento. 
+This project and [this](https://github.com/MassimilianoLuca/nlsparql-wfst) are part of the Language Understanding System class that I took in my Master Degree at the University of Trento. 
 
 Mark (ITA): 30/30
 Mark (US): A
